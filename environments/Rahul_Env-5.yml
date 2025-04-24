@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "5"
+mappingDefinitions:
+  SAMPLE:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  TEST:
+    database: COALESCE_TOOL
+    schema: COALESCE_SC
+name: Rahul_Env
+type: Environment

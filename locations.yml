@@ -1,3 +1,5 @@
-defaultStorageMapping: null
+defaultStorageMapping: SAMPLE
 fileVersion: 1
-locations: []
+locations:
+  - SAMPLE
+  - TEST
